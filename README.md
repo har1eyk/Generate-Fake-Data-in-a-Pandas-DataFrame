@@ -3,6 +3,7 @@ I needed to generate fake data for a Pandas DataFrame for project. Specifically,
 
 ## Faker
 Import Faker
+
 `from faker import Faker
 fake = Faker()`
 
