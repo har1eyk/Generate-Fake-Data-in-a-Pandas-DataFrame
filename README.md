@@ -10,5 +10,6 @@ Output appears like this:
 | 1 | Brenda Chavez     | tking@hotmail.com          |        7 |
 | 2 | Stephanie Johnson | reginald43@hotmail.com     |       26 |
 | 3 | Whitney Santiago  | scott30@yahoo.com          |       38 |
+
 *Table 1: Dataframe Output for Pandas DataFrame using Faker.*
 
